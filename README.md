@@ -4,7 +4,7 @@ In this project, I quickly build documentation for a Python package based on Mar
 
 I created a partly auto-generated documentation for a Python project by linking information in the docstrings to the documentation pages. Furthermore, I added additional documentation pages that made my project more appealing to users by guiding them through examples and use cases.
 
-I styled the documentation with the Material for MkDocs theme and deployed it to the Internet through GitHub Pages—[here](https://ktreharrison.github.io/calculator/).
+I styled the documentation with the Material for MkDocs theme and deployed it to the Internet through **GitHub Pages—[here](https://ktreharrison.github.io/calculator/)**.
 
 The main skills I practiced:
 
